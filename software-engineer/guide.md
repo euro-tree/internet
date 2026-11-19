@@ -2,7 +2,7 @@
 
 ## 💬 Every day there are new ways to make softwares and apps 🧰
 
-To be software eningger , you need to do the following
+To be a software engineer , you need to do the following
 - 🔍 do research and try use new tools   
 - 🎨 use your creativity to build something with it have meaning to you or others or to solve problem 
 - 🖼️ make it avalible to public and share the result 
